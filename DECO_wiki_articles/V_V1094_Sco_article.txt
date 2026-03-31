@@ -1,0 +1,56 @@
+Overview
+
+V* V1094 Sco, also known by its various aliases including TIC 457994950 and Gaia DR3 5997022192152593664, is a T Tauri star located in the Lupus III region. It is notable for its complex protoplanetary disk structure, which has been extensively studied using advanced observational techniques. The disk surrounding V1094 Sco exhibits unique characteristics that provide insights into the processes of planet formation and disk evolution. 
+
+Disk Structure and Kinematics
+
+The protoplanetary disk around V1094 Sco has been characterized as a giant multi-ringed disk, with significant features identified through observations conducted with the Atacama Large Millimeter/submillimeter Array (ALMA). The disk displays two pairs of gaps and rings located at approximately 100 AU and 170 AU, with bright rings at 130 AU and 220 AU, extending out to a radius of 300 AU. The central region of the disk is characterized by a low brightness temperature of approximately 13 K, suggesting that it may be optically thick at 1 mm wavelengths. This low temperature indicates that snow lines are unlikely to be responsible for the formation of the observed gaps and rings, as the midplane temperature is too low for such processes to occur [1].
+
+The disk's structure has been modeled using Fourier-transformed Gaussian fits, which reveal a bright core and a more extended continuum emission that is fainter than the rings. The analysis of the intensity distribution shows that the rings at 130 ± 9 AU and 220 ± 16 AU are surrounded by gaps at 100 ± 6 AU and 170 ± 13 AU. The spectral index αmm of the continuum emission varies with radius, exhibiting a low value in the inner disk that increases outward, influenced by image noise properties and flux calibration errors [1].
+
+The kinematics of the disk have been studied through the detection of molecular gas emissions, particularly in the 12CO and 13CO lines. The gas disk mass has been estimated using the C18O J=2-1 line fluxes in conjunction with disk models, revealing a gas-to-dust mass ratio that ranges between 10 and 100 across the Lupus sample. This ratio is consistent with median values for well-resolved sources, indicating a correlation between gas and dust disk masses [2]. The systemic velocity of V1094 Sco is measured at 5.50 km/s, which is critical for understanding the dynamics of the disk [DECO table].
+
+Physical Conditions
+
+The physical conditions within the disk of V1094 Sco are characterized by a stellar mass of 0.92 M_sun and a distance of 160 pc from Earth [DECO table]. The disk's position angle is measured at 109.44 degrees, with an inclination of 49.17 degrees. These parameters are essential for modeling the disk's geometry and understanding the distribution of material within it.
+
+The temperature profile of the disk is notably low, with the central region exhibiting a brightness temperature of 13 K. This low temperature suggests that the disk is colder and more massive than typical T Tauri disks, with mass estimates ranging from 0.03 to ≳0.12 M⊙. The absence of a clear dip feature around 10 µm in the spectral energy distribution (SED) indicates that the disk does not have an inner hole, which is often observed in other protoplanetary disks [4]. The flattened disk geometry contributes to the lower temperature, and the study of the SED supports the notion of significant grain growth and sedimentation occurring within the disk [4].
+
+The study of gas composition within the disk has revealed the presence of various molecular species, including 12CO, 13CO, and C18O, which are crucial for understanding the chemical environment of the disk. The detection of atomic carbon ([C I] 1-0) has also been reported, indicating that the disks retain substantial amounts of gas and carbon, which are important for the chemical evolution of the disk [5]. The presence of these molecules suggests that the disk is rich in volatile compounds, which are essential for the formation of planetary bodies.
+
+Observational Methods
+
+The observational methods employed to study V1094 Sco have primarily involved high-resolution imaging and spectroscopy using ALMA and other advanced instruments. The ALMA observations in Bands 6 and 7 have provided critical insights into the disk's structure and kinematics. The resolution achieved in these observations is approximately 0.3′′, allowing for detailed analysis of the disk's features [1].
+
+The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO) has been instrumental in characterizing gas masses and sizes in protoplanetary disks, including V1094 Sco. This survey utilized 12CO, 13CO, and C18O J=2-1 lines in Band 6, alongside N2H+ J=3-2 lines in Band 7, to derive gas disk masses and sizes. The methodology involved fitting beam-convolved models to line emission maps, which enabled the computation of gas-to-dust size ratios and provided insights into disk evolution [2, 10].
+
+In addition to ALMA, the Mid-InfraRed Instrument's Medium Resolution Spectrometer on the James Webb Space Telescope (JWST) has been employed to study the composition of terrestrial planet-building blocks within the inner regions of protoplanetary disks. This approach has allowed for the comparison of emissions from key species such as H2O, HCN, C2H2, and CO2 with outer dust disk structures observed by ALMA [3]. The combination of these observational techniques has enhanced the understanding of the physical and chemical processes occurring within the disk.
+
+Key Results and Interpretation
+
+The studies conducted on V1094 Sco have yielded several significant results that contribute to the understanding of protoplanetary disk evolution and planet formation. The detection of a giant multi-ringed disk structure is particularly noteworthy, as it highlights the rarity of such disks in the Lupus region, with only 2.1 ± 1.5% of disks exhibiting continuum emission beyond 200 AU [1]. This finding emphasizes the unique nature of V1094 Sco and its potential implications for planet formation processes.
+
+The analysis of the disk's intensity distribution has revealed the presence of bright rings and gaps, which are critical for understanding the dynamics of material within the disk. The correlation between gas and dust masses, as well as the gas-to-dust size ratios, provides insights into the evolutionary stages of the disk and the processes that govern its structure [2, 10]. The presence of atomic carbon and various molecular species further enriches the chemical inventory of the disk, suggesting that it may play a significant role in the formation of planetary bodies [5].
+
+The low temperature and high mass of the disk challenge conventional models of disk evolution, indicating that V1094 Sco may represent a distinct class of protoplanetary disks. The findings suggest that the disk's unique characteristics could influence the formation and composition of planets within the system, making it a valuable target for future studies aimed at understanding the complexities of planet formation.
+
+Open Questions
+
+Despite the advancements in understanding V1094 Sco, several open questions remain. The mechanisms behind the formation of the observed gaps and rings in the disk are still not fully understood. While the low midplane temperature suggests that snow lines are not responsible for these features, further investigation is needed to elucidate the processes that lead to such complex structures [1].
+
+Additionally, the relationship between the disk's physical conditions and the formation of terrestrial planets is an area that warrants further exploration. Understanding how the distribution of volatile compounds and the dynamics of gas and dust influence planet formation will be crucial for developing comprehensive models of disk evolution [3, 4].
+
+The role of turbulence and its impact on dust settling and accretion processes also presents an intriguing avenue for future research. The varying levels of turbulence and their effects on the spatial distribution of dust could significantly influence the efficiency of planet formation within the disk [7]. 
+
+References
+
+[1] DECO data table  
+[2] 2025ApJ...989....3D, ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO), ApJ  
+[3] 2025A&A...694A.147G, Influence of Outer Dust Disc Structures on Inner Disc Composition, A&A  
+[4] 2011ApJ...726...45T, Detection of a Cold, Massive Dust Disk around V1094 Sco, ApJ  
+[5] 2023ApJ...953..183P, Detection of Atomic Carbon in Gaseous Disks, ApJ  
+[6] 2020A&A...644A.149X, High-Resolution Spectral Differential Imaging of Protoplanetary Disks, A&A  
+[7] 2025A&A...697A..64V, Dust Settling in Protoplanetary Disks, A&A  
+[8] 2020A&A...633A..82G, High-Resolution Imaging of Circumstellar Disks, A&A  
+[9] 2025ApJ...993..166J, Vertical Distribution of Pebbles in Protoplanetary Disks, ApJ  
+[10] 2025ApJ...989...10T, Gas Disk Sizes in Protoplanetary Disks, ApJ

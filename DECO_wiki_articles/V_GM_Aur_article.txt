@@ -1,0 +1,56 @@
+Overview
+
+V* GM Aur, also known by various aliases including TIC 96533063 and Gaia DR3 156907907082740480, is a Classical T Tauri star located at a distance of 140.00 parsecs [1]. It has a stellar mass of 0.69 solar masses and exhibits a systemic velocity of 5.61 km/s. The protoplanetary disk surrounding GM Aur has a position angle of 64.00 degrees and an inclination of 53.20 degrees [1]. This transitional disk has garnered significant attention due to its complex structure, accretion processes, and potential for planet formation.
+
+Disk Structure and Kinematics
+
+The protoplanetary disk around GM Aur has been extensively studied using high-resolution observations, particularly with the Atacama Large Millimeter/submillimeter Array (ALMA). The disk is characterized by a Keplerian rotation extending to a radius of approximately 550 astronomical units (au), with CO emission tracing spiral arms and diffuse structures that extend out to 1200-1900 au [2]. The observations reveal a complex gas structure, with broad and asymmetric CO emission visible up to approximately 1900 au from the star, indicating intricate kinematic behavior [2]. 
+
+ALMA observations at 1.1 and 2.1 mm reveal three distinct rings of dust with extended emission and a central cavity, suggesting a mix of dust and free-free emission [4]. The spectral index varies radially, indicating different dust properties within the disk. The HCO+ J = 3-2 observations suggest a more compact gas cavity compared to the dust cavity, highlighting the evolving nature of GM Aur's disk structure [4]. 
+
+Imaging techniques employed in these studies include the use of a Gaussian uv taper and robust weighting to enhance sensitivity to large-scale emission. The identification of spiral arms was achieved through visual inspection of channel maps, which were overlaid with a logarithmic spiral model to match observed structures [2]. The complexity of the disk's gas dynamics emphasizes the need for detailed molecular emission studies to complement continuum observations, challenging traditional models of disk evolution and planet formation [2].
+
+Outflows and Jets
+
+The study of outflows and jets in GM Aur has revealed significant insights into the accretion processes and their connection to stellar evolution. Observations have shown high-velocity redshifted absorptions in near-infrared line profiles, indicating a stable accretion funnel flow and associated accretion shock at the stellar surface [9]. The research highlights the coexistence of short-lived episodic outflows with a stable magnetospheric accretion pattern, suggesting a complex interplay between accretion and ejection processes [9].
+
+Spectropolarimetric observations using the SPIRou instrument have identified a dominant dipole magnetic field around GM Aur, with non-stationary dynamo processes potentially influencing the accretion dynamics [5]. The detection of a potential planet candidate with a minimum mass of 1.10 ± 0.30 Jupiter masses orbiting at 0.082 ± 0.002 au further underscores the dynamic environment of GM Aur's disk and its potential for planet formation [5].
+
+The relationship between magnetic fields, accretion processes, and outflows is critical for understanding the evolution of Classical T Tauri stars. Zeeman-Doppler imaging has been employed to reconstruct large-scale magnetic fields, revealing a correlation between field complexity and stellar structure [5]. The study emphasizes the importance of increasing the sample of CTTSs with reconstructed magnetic fields to refine dynamo models and enhance our understanding of magnetic field generation and evolution in T Tauri stars.
+
+Physical Conditions
+
+The physical conditions within the GM Aur disk are characterized by significant variability in accretion rates and temperature distributions. Observations have shown that the accretion rate is linked to the variability in light curves, primarily on days-long timescales [7]. The variability is attributed to periodicity related to stellar rotation and stochastic accretion variability, highlighting the strong connection between mass accretion and photometric variability across different wavelengths [7].
+
+Accretion shock modeling has revealed that the density of the accretion flow affects the temperature of hotspots on the stellar surface, with simulations indicating variability in accretion structure and hotspot characteristics among different objects [3]. The impact of strong magnetic fields on accretion processes is also significant, with magnetospheric accretion models predicting asymmetries in the accretion flow that influence the observed variability [3].
+
+The study of molecular hydrogen (H2) in the circumstellar environment of GM Aur has provided insights into the excitation mechanisms and dynamics of gas in protoplanetary disks. Observations have shown that H2 emission characteristics vary among different stars, with discrete knots associated with shocks and centralized emission consistent with a disk origin [8]. The excitation mechanisms of H2 are influenced by UV fluorescence and thermal excitation, highlighting the complex interactions between the star and its surrounding disk [8].
+
+Observational Methods
+
+The observational methods employed in studying GM Aur encompass a range of techniques across multiple wavelengths. High-resolution optical and near-infrared spectroscopy, multiwavelength photometry, and low-resolution near-infrared spectroscopy have been utilized to probe the disk's structure and dynamics [9]. The observational campaigns have spanned several months, with coordinated efforts involving facilities such as the Canada–France–Hawaii Telescope (CFHT), European Southern Observatory (ESO), and Las Cumbres Observatory Global Telescope (LCOGT) [9].
+
+ALMA has played a pivotal role in resolving the disk's structure, with observations conducted in Band 6 focusing on 12CO J = 2-1 emissions at a spatial resolution of approximately 40 au [2]. The imaging procedures employed Gaussian uv tapering and robust weighting to enhance sensitivity to large-scale emission, allowing for detailed mapping of the disk's gas dynamics [2].
+
+The Hubble Space Telescope (HST) has also been instrumental in obtaining UV spectra, which have been analyzed using accretion shock models to estimate luminosities of UV lines and features [3]. The combination of TESS observations with ground-based UBVRI-band photometry has provided insights into short-timescale variability in accretion rates, emphasizing the importance of multi-wavelength observations in understanding the accretion processes of young stars [10].
+
+Key Results and Interpretation
+
+The research surrounding GM Aur has yielded several key results that enhance our understanding of protoplanetary disks and their evolution. The detection of significant variability in accretion rates, linked to stellar rotation and stochastic processes, underscores the complexities of mass accretion in Classical T Tauri stars [7]. The identification of spiral arms and complex gas structures in the disk challenges traditional models of disk evolution, emphasizing the need for detailed molecular emission studies [2].
+
+The presence of a potential planet candidate within the disk, along with the characterization of the magnetic field and its influence on accretion processes, highlights the dynamic environment of GM Aur and its potential for planet formation [5]. The variability in emission lines, particularly in Hα, Hβ, and Hγ, has been attributed to accretion flows and outflows rather than extinction effects, emphasizing the intrinsic variability of accretion in CTTSs [1, 3].
+
+The studies have also revealed the importance of understanding the torque balance between accretion and ejection processes for the spin evolution of young stars [9]. The comprehensive multi-wavelength, multi-epoch monitoring campaigns have provided valuable insights into the physical processes at work in GM Aur, paving the way for future investigations into the formation and evolution of planetary systems.
+
+References
+
+[1] DECO data table  
+[2] H. A. H. et al., 2021, Molecules with ALMA at Planet-forming Scales (MAPS) XIX, ApJS, 257, 19  
+[3] W. et al., 2024, Multi-epoch monitoring of accretion variability in CTTSs, ApJ, 970, 118  
+[4] H. et al., 2020, Investigating the protoplanetary disk around GM Aur, ApJ, 891, 48  
+[5] Z. et al., 2024, Magnetic field properties and potential planet presence in CTTSs, MNRAS, 533, 2893  
+[6] H. et al., 2016, Comprehensive study of the transitional disk of GM Aur, ApJ, 829, 65  
+[7] W. et al., 2024, Multi-epoch monitoring of accretion variability in CTTSs, ApJ, 971, 96  
+[8] B. et al., 2019, Survey of near-infrared line emission from molecular hydrogen, ApJ, 884, 159  
+[9] B. et al., 2023, Connection between accretion and outflow processes in GM Aur, A&A, 672, A5  
+[10] R. et al., 2022, Short-timescale variability in Classical T Tauri stars, ApJ, 935, 54

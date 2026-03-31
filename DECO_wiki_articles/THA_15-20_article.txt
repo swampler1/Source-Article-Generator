@@ -1,0 +1,48 @@
+Overview
+
+THA 15-20, also known as Sz 91, is a T Tauri star located in the Lupus III molecular cloud. It is classified as a transitional disk, characterized by a significant inner cavity and a complex structure that provides insights into planet formation processes. The system has been the subject of extensive observational studies, particularly using the Atacama Large Millimeter/submillimeter Array (ALMA) and other high-resolution imaging techniques. This article summarizes the key characteristics, observational methods, and findings related to THA 15-20, emphasizing its disk structure, kinematics, physical conditions, and the implications for understanding protoplanetary disks.
+
+Disk Structure and Kinematics
+
+The disk surrounding THA 15-20 exhibits a well-defined structure with notable features such as a large dust cavity and a significant gas disk. Observations have revealed an inner radius of approximately 65 AU and an outer radius of about 170 AU, indicating a substantial gap in the dust distribution. The gas disk extends even further, with CO emission detected up to approximately 488 AU from the central star, suggesting a complex radial structure where the gas and dust distributions differ significantly [4, 10].
+
+ALMA observations at various wavelengths, including bands 6 and 7, have provided high-resolution imaging of the disk. The continuum emission at 870 µm shows a concentration of large dust grains in a narrow ring located around 110 AU from the star, with a Gaussian profile indicating a width of 22.2 ± 0.5 AU [10]. The presence of a large dust cavity suggests that the disk has undergone significant evolution, potentially due to the gravitational influence of forming planets. The CO isotopologue emissions, particularly from 12CO, have been used to map the gas structure, revealing azimuthal asymmetries and spiral arms that may indicate the presence of embedded planets or other dynamical processes affecting dust accumulation [1, 5].
+
+The inclination of the disk has been measured at approximately 49.70 degrees, with a position angle of 195.12 degrees, providing essential parameters for modeling the disk's geometry and dynamics [DECO table]. The systemic velocity of the star is recorded at 3.39 km/s, which is crucial for understanding the kinematics of the gas within the disk [DECO table]. The combination of these measurements allows for a comprehensive analysis of the disk's structure and the physical processes at play.
+
+Physical Conditions
+
+The physical conditions within the disk of THA 15-20 have been characterized through various observational techniques. The temperature profiles derived from CO isotopologue emissions indicate a range of thermal conditions across the disk, with gas temperatures varying radially and vertically. The study by Law et al. (2023) emphasizes the significance of understanding the vertical distribution of CO emission, which is linked to the disk's physical conditions, including gas temperature and density [2, 6].
+
+The analysis of the vertical structure of the disk reveals that the emission surfaces of CO isotopologues can be used as empirical tracers of gas pressure scale heights. The observed z/r ratios, which describe the vertical extent of the gas relative to its radial distance from the star, vary from approximately 0.1 to greater than 0.5, indicating a flared structure typical of protoplanetary disks [6]. The presence of a gas pressure bump, inferred from the dust filtering and accumulation processes, supports models of grain growth and planetesimal formation through the streaming instability [1].
+
+The mass of the central star has been estimated at approximately 0.52 M_sun, which influences the disk's thermal and dynamical properties [DECO table]. The mass accretion rate has also been found to be significant, indicating ongoing processes of material infall from the disk onto the star. The combination of these factors contributes to the overall understanding of the disk's evolution and the conditions conducive to planet formation.
+
+Observational Methods
+
+The observational strategies employed to study THA 15-20 have involved a combination of high-resolution imaging and spectral analysis using advanced facilities. ALMA has been the primary instrument for obtaining detailed observations of the disk's structure and dynamics. Observations have been conducted at multiple wavelengths, including submillimeter and near-infrared bands, allowing for a comprehensive analysis of both gas and dust components.
+
+The observational setup typically includes the use of ALMA's Band 6 and Band 7 for continuum and line emissions, with specific attention to CO isotopologues such as 12CO, 13CO, and C18O. The spectral setups have been designed to capture the J=2–1 and J=3–2 transitions, providing critical information about the gas kinematics and temperature distributions within the disk [2, 5]. The data processing methods involve fitting parametric models to the line emission surfaces, utilizing techniques such as exponentially-tapered power laws to describe the vertical structure of the disk [2, 6].
+
+In addition to ALMA observations, polarimetric imaging has been conducted using instruments like VLT/NaCo and the HiCIAO instrument on the Subaru Telescope. These observations have provided insights into the polarized intensity of the disk, contributing to the understanding of its composition and structure [3, 4]. The combination of these observational techniques has enabled researchers to derive detailed physical parameters and to model the disk's evolution accurately.
+
+Key Results and Interpretation
+
+The findings from the various studies of THA 15-20 have significant implications for understanding protoplanetary disk evolution and planet formation processes. The presence of a large dust cavity and the observed azimuthal asymmetries in the disk structure suggest that gravitational interactions, possibly with forming planets, play a crucial role in shaping the disk's morphology [1, 5]. The concentration of large dust grains in a narrow ring at approximately 110 AU indicates that these regions may be conducive to planetesimal formation, supporting models of grain growth through mechanisms such as streaming instabilities [1, 10].
+
+The analysis of CO isotopologue emissions has revealed important details about the gas dynamics within the disk. The vertical distribution of CO emission surfaces provides insights into the temperature profiles and gas density distributions, which are essential for understanding the physical conditions that govern disk evolution [2, 6]. The observed systemic velocity and inclination of the disk further enhance the understanding of the kinematic properties and the potential interactions between the gas and dust components.
+
+The results also highlight the need for continued monitoring and high-resolution observations to explore the complexities of the disk structure and the potential for planet formation. The discrepancies observed between the gas and dust distributions raise questions about the underlying processes driving these differences and the implications for the presence of planets within the disk [5, 10]. Overall, the research surrounding THA 15-20 contributes valuable empirical data to the field of protoplanetary disk studies, enhancing the understanding of the mechanisms involved in planet formation and disk evolution.
+
+References
+
+[1] DECO data table  
+[2] Law et al., 2023, High Spatial Resolution Observations of CO Isotopologue Line Emission in Protoplanetary Disks, ApJ, 948  
+[3] Muro-Arena et al., 2020, Observational Insights into Transitional Disks and Their Properties, MNRAS, 492  
+[4] Takami et al., 2014, High-Resolution Submillimeter and Near-Infrared Observations of Sz 91, ApJ, 783  
+[5] Casassus et al., 2015, ALMA Observations of the Transition Disk Sz 91, ApJ, 805  
+[6] Law et al., 2022, Vertical Structure and Temperature Distribution of Protoplanetary Disks, ApJ, 932  
+[7] Whelan et al., 2023, Kinematics and Brightness Temperatures of Transition Discs, A&A, 670  
+[8] Bayo et al., 2015, Identifying Transitional Disk Candidates in the Lupus Clouds, A&A, 578  
+[9] Varga et al., 2018, Transition Disks with Large Dust Cavities in the Lupus Region, ApJ, 854  
+[10] Cleeves et al., 2016, Observations of the Transition Disc Sz 91, MNRAS, 458

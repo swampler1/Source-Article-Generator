@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+venv/
+wiki_env/
+wiki_env_3.12/
+
+# Logs / outputs
+logs/
+runs/
+summaries/
+stitched/
+Scraped_Table_Data/
+paper_pdfs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+.DS_Store

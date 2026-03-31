@@ -1,0 +1,52 @@
+Overview
+
+V* DL Tau, also known by various aliases including AP J04333906+2520382 and Gaia DR3 148010281032823552, is a notable T Tauri star located at a distance of approximately 159.94 parsecs. This star is characterized by a stellar mass of 0.66 solar masses and a systemic velocity of 6.10 km/s. The protoplanetary disk surrounding DL Tau exhibits a position angle of 230 degrees and an inclination of 44.6 degrees, which are critical parameters for understanding its structure and dynamics. The study of DL Tau and its disk provides insights into the processes of star formation and planet formation within the Taurus star-forming region.
+
+Disk Structure and Kinematics
+
+The protoplanetary disk around DL Tau has been extensively studied using various observational techniques, revealing significant structural features. Observations conducted with the Atacama Large Millimeter/submillimeter Array (ALMA) at wavelengths of 1.3 mm and 2.9 mm have identified dust rings within the disk, spanning radial locations from 50 to 120 astronomical units (au) from the central star. These rings are indicative of dust trapping in local pressure maxima, which is a critical factor influencing the dynamics of dust grain evolution and the formation of planets within the disk [5].
+
+The disk's morphology has been further analyzed through high-resolution imaging, achieving angular resolutions of approximately 0.1 arcseconds. This level of detail allows for the identification of substructures and the characterization of dust grain dynamics. The presence of multiple dust rings suggests that the disk may be influenced by the gravitational effects of forming planets, which can create pressure bumps that trap dust and gas [5, 9]. The study of these structures is essential for understanding the mechanisms of planet formation, as they provide clues about the distribution and movement of material within the disk.
+
+Kinematic studies of DL Tau's disk have revealed deviations from Keplerian rotation, which may indicate the presence of embedded planets or other dynamical processes at play. The analysis of molecular line emissions, particularly from CO isotopologues, has provided insights into the gas dynamics and temperature gradients within the disk. For instance, temperatures at a distance of 100 au from the star have been measured to range from 17 to 37 K, with a radial decrease following power-law distributions [1, 3]. These temperature profiles are crucial for understanding the physical conditions that govern the chemistry and dynamics of the disk.
+
+Outflows and Jets
+
+DL Tau is also associated with significant outflow activity, which is a common feature of T Tauri stars. The study of forbidden emission lines, such as [O i] and [S ii], has been instrumental in understanding the kinematics and dynamics of outflows from DL Tau. Observations using the Multi Unit Spectroscopic Explorer (MUSE) at the Very Large Telescope (VLT) have provided spatially resolved data that reveal the geometry and dynamics of the outflow [2]. The position angle of the outflow has been measured and compared with the position angle of the disk, indicating a degree of alignment between the two structures.
+
+The mass-loss rates associated with the outflows have been estimated using the [O i] λ6300 line, providing insights into the energetic processes occurring in the inner regions of the disk. The analysis of line widths and kinematic profiles suggests that the outflows are driven by magnetically dominated winds, which play a crucial role in the angular momentum transport within the disk [2]. This understanding of outflows is essential for elucidating the mechanisms that govern disk evolution and the formation of planetary systems.
+
+Physical Conditions
+
+The physical conditions within the disk of DL Tau have been characterized through various observational campaigns. The gas mass of the disk has been estimated using CO isotopologue data, revealing a range of gas masses from 0.001 to 0.2 solar masses. This range is indicative of the disk's ability to support planet formation processes, as the gas mass is a critical factor in determining the potential for planetesimal formation [1, 3]. The study of carbon depletion profiles in the disk has also provided insights into the elemental composition and chemical evolution of the disk, with severe cold gaseous carbon depletion observed in DL Tau [3].
+
+Temperature gradients within the disk have been modeled, with the presence of subsonic turbulence detected in similar disks. The turbulent properties of the disk are essential for understanding the mixing processes that influence chemical composition and the formation of solid bodies. The modeling of temperature and density structures has revealed the impact of stellar radiation on disk properties, highlighting the complex interplay between stellar activity and disk evolution [1, 3].
+
+Observational Methods
+
+The observational methods employed to study DL Tau have included a combination of millimeter and optical techniques. ALMA observations at 1.3 mm and 2.9 mm have provided high-resolution imaging of the disk structure, enabling the identification of dust rings and other substructures. The observational setup involved using multiple antennas with baselines ranging from 90 m to approximately 8.5 km, achieving high angular resolution and sensitivity [5, 9].
+
+Spectroscopic observations using the MUSE instrument have allowed for the detailed analysis of forbidden emission lines, providing insights into the dynamics of outflows and jets associated with DL Tau. The high spatial resolution of MUSE has enabled the derivation of kinematic properties and mass-loss rates, contributing to the understanding of angular momentum transport in the disk [2].
+
+Additionally, the use of the GIARPS spectrograph has facilitated the measurement of mass-accretion rates and other stellar properties, with a focus on deriving consistent parameters across a range of T Tauri stars. The calibration of high-resolution spectra has been critical for accurate measurements of accretion processes, which are fundamental to understanding the evolution of protoplanetary disks [10].
+
+Key Results and Interpretation
+
+The research surrounding DL Tau has yielded several key results that enhance our understanding of protoplanetary disks and their role in star and planet formation. The identification of dust rings and the characterization of their dynamics have provided evidence for the influence of gravitational interactions on dust distribution and planetesimal formation. The observed temperature gradients and gas mass estimates indicate that DL Tau's disk possesses the necessary conditions for planet formation, with significant implications for the study of planetary system evolution [1, 5].
+
+The analysis of outflows and jets has revealed the importance of magnetically driven winds in shaping the dynamics of the disk. The alignment of outflow and disk position angles suggests a coherent structure that may facilitate angular momentum transport and mass loss, critical processes in the evolution of protoplanetary disks [2]. Furthermore, the study of chemical composition and carbon depletion has highlighted the complexities of disk chemistry, emphasizing the need for further investigations into the elemental distribution and its implications for planet formation [3].
+
+The integration of multi-wavelength observations has proven essential for constructing a comprehensive picture of DL Tau's disk. The combination of millimeter and optical data has allowed for a detailed understanding of the physical conditions, dynamics, and chemical composition of the disk, paving the way for future studies aimed at unraveling the intricacies of protoplanetary disk evolution [6, 10].
+
+References
+
+[1] DECO data table  
+[2] F. et al., 2023, Investigating forbidden emission lines in protostellar outflows and jets, A&A, 670A.126  
+[3] S. et al., 2022, Investigating pebble drift and trapping in protoplanetary disks, A&A, 660A.126  
+[4] L. et al., 2023, Variability and mass-accretion rates of Classical T Tauri Stars in the Taurus Molecular Cloud, AJ, 166...82  
+[5] L. et al., 2020, New ALMA observations of protoplanetary disks in Taurus, ApJ, 898...36  
+[6] G. et al., 2025, Investigating the impact of pressure bumps on the molecular reservoirs of the inner disc, A&A, 694A.147  
+[7] K. et al., 2015, Investigating protoplanetary disks in the Taurus molecular cloud, ApJ, 808..102  
+[8] H. et al., 2024, Investigating dust polarization in protoplanetary disks, ApJ, 967...40  
+[9] J. et al., 2022, Investigating super-resolution trends in the ALMA Taurus survey, MNRAS, 514.6053  
+[10] A. et al., 2021, Pilot study focusing on the stellar and accretion properties of young stellar objects in the Taurus star forming region, A&A, 652A..72
